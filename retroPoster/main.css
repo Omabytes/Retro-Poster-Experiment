@@ -124,7 +124,7 @@ h5 {
 .info-div {
     max-width: 20vw ;
     grid-column: 2 / 3;
-    grid-row: 9 / 11;
+    grid-row: 8 / 10;
     color: black;
     font-weight: 100;
     text-align: justify;
