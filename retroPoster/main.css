@@ -9,7 +9,7 @@ html {
     margin: 0;
     display: grid;
     grid-template-columns: auto auto auto auto;
-    grid-template-rows: auto 0.8fr auto 0.5fr auto auto auto 0.3fr auto 0.9fr 1fr;
+    grid-template-rows: auto 0.5fr auto 0.2fr auto auto auto 0.3fr auto 0.7fr 0.6fr;
     transform: rotate(-35deg)
 }
 
@@ -138,6 +138,7 @@ h5 {
     margin: 0;
     color: #ED4032;
     font-weight: 900;
+    line-height: 80%;
 }
 
 .big-letter-2 {
@@ -148,4 +149,5 @@ h5 {
     margin: 0;
     color: #ED4032;
     font-weight: 900;
+    line-height: 80%;
 }
